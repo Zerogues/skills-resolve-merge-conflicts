@@ -1,6 +1,7 @@
+#references.md
 
 <<<<<<< my-resume
-* resume.md
+#resume
 =======
-* resume.md
+#resume
 >>>>>>> main
