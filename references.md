@@ -1,7 +1,7 @@
 #references.md
 
-<<<<<<< my-resume
+<<<<<<< main
 #resume
 =======
 #resume
->>>>>>> main
+>>>>>>> my-resume
