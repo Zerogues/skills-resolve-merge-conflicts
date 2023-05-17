@@ -1,6 +1,6 @@
 
 <<<<<<< my-resume
-* gfgfdg
+* resume.md
 =======
-* gfgfdg
+* resume.md
 >>>>>>> main
